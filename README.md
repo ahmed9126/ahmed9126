@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Ahmad 👋
 
-<!--
-**ahmed9126/ahmed9126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📱 Flutter Mobile Application Developer
 
-Here are some ideas to get you started:
+I build scalable, high-performance cross-platform mobile applications using **Flutter & Dart**, with a strong focus on **Clean Architecture** and robust **State Management**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack & Skills
+
+- **Core:** Flutter, Dart
+- **Architecture:** Clean Architecture, Feature-First Structure
+- **State Management:** BLoC, Cubit
+- **Networking:** REST APIs, Dio, JSON Parsing
+- **Tools & UI:** GoRouter, ScreenUtil, Git, GitHub
+
+---
+
+### 📂 Featured Projects
+
+- 🏥 **[LeoClinic_flutter](https://github.com/techmasterycompany-star/LeoClinic_flutter):** Healthcare application built with Clean Architecture, feature-based modular structure, Dio, and Cubit state management.
+
+---
+
+📫 **How to reach me:** Feel free to connect for collaborations or Flutter opportunities!
