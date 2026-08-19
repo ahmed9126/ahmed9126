@@ -1,25 +1,50 @@
-# Hi there, I'm Ahmad 👋
+# Hi, I'm Ahmed 👋
 
-### 📱 Flutter Mobile Application Developer
+### Flutter Developer | BLoC/Cubit | REST APIs | Dio
 
-I build scalable, high-performance cross-platform mobile applications using **Flutter & Dart**, with a strong focus on **Clean Architecture** and robust **State Management**.
+I develop Flutter mobile applications with a focus on clean, maintainable code, state management, API integration, and reusable UI components.
 
----
+## 🛠 Tech Stack
 
-### 🛠 Tech Stack & Skills
+* **Language:** Dart
+* **Framework:** Flutter
+* **State Management:** BLoC, Cubit
+* **Networking:** REST APIs, Dio, JSON
+* **Architecture:** Feature-based Architecture, Separation of Concerns
+* **Routing:** GoRouter
+* **UI:** Flutter ScreenUtil, SVG
+* **Storage:** SharedPreferences
+* **Tools:** Git, GitHub, Android Studio, VS Code
 
-- **Core:** Flutter, Dart
-- **Architecture:** Clean Architecture, Feature-First Structure
-- **State Management:** BLoC, Cubit
-- **Networking:** REST APIs, Dio, JSON Parsing
-- **Tools & UI:** GoRouter, ScreenUtil, Git, GitHub
+## 🚀 Featured Project
 
----
+### 🏥 LeoClinic Flutter
 
-### 📂 Featured Projects
+A team-built healthcare application developed with Flutter.
 
-- 🏥 **[LeoClinic_flutter](https://github.com/techmasterycompany-star/LeoClinic_flutter):** Healthcare application built with Clean Architecture, feature-based modular structure, Dio, and Cubit state management.
+**My contributions include:**
 
----
+* Designed and implemented the project architecture.
+* Implemented the core project structure and networking setup.
+* Developed the complete authentication feature.
+* Implemented authentication API integration using Dio.
+* Built request and response models.
+* Implemented Repository and Cubit-based state management.
+* Implemented the application intro experience.
+* Worked on API error and exception handling.
 
-📫 **How to reach me:** Feel free to connect for collaborations or Flutter opportunities!
+[View LeoClinic on GitHub](https://github.com/techmasterycompany-star/LeoClinic_flutter)
+
+## 📌 Current Focus
+
+Building real-world Flutter applications and improving my experience with:
+
+* Flutter development
+* BLoC / Cubit
+* REST API integration
+* Authentication
+* Clean and maintainable project structure
+
+## 📫 Contact
+
+Feel free to connect with me for Flutter projects, collaboration, or development opportunities.
